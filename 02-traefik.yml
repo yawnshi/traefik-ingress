@@ -28,4 +28,3 @@ spec:
               containerPort: 80
             - name: dashboard
               containerPort: 8080
-
