@@ -5,7 +5,7 @@ metadata:
   namespace: traefik
 spec:
   rules:
-  - host: whoami.local.com
+  - host: whoami.local
   # - host: localhost
     http:
   # - http:
